@@ -60,7 +60,6 @@ export default async () => ({
         !isProduction &&
             serve({
                 open: false,
-                verbose: false,
                 host: 'localhost',
                 port: 9004,
                 historyApiFallback: true,
