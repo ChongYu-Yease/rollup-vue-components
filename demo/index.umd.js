@@ -173,11 +173,11 @@
     /* style */
     const __vue_inject_styles__ = function (inject) {
       if (!inject) return
-      inject("data-v-6c867855_0", { source: ".index[data-v-6c867855] {\n  margin-top: 10%;\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["left-menu.vue"],"names":[],"mappings":"AAAA;EACE,eAAe;EACf,kBAAkB;EAClB,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"left-menu.vue","sourcesContent":[".index {\n  margin-top: 10%;\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
+      inject("data-v-d66a959a_0", { source: ".index[data-v-d66a959a] {\n  margin-top: 10%;\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["left-menu.vue"],"names":[],"mappings":"AAAA;EACE,eAAe;EACf,kBAAkB;EAClB,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"left-menu.vue","sourcesContent":[".index {\n  margin-top: 10%;\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
-    const __vue_scope_id__ = "data-v-6c867855";
+    const __vue_scope_id__ = "data-v-d66a959a";
     /* module identifier */
     const __vue_module_identifier__ = undefined;
     /* functional template */

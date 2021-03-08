@@ -60,7 +60,7 @@ export default async () => ({
         !isProduction &&
             serve({
                 open: false,
-                host: 'localhost',
+                host: 'h5.dev.weidian.com',
                 port: 9004,
                 historyApiFallback: true,
                 contentBase: 'demo',
